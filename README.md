@@ -1,0 +1,3 @@
+En este respositorio se encuentra el código utilizado para elaborar las visualizaciones del artículo [*Una exploración bibliométrica y digital de los estudios urbanos en Bolivia*](https://www.academia.edu/81465997/Una_exploraci%C3%B3n_bibliom%C3%A9trica_y_digital_de_los_estudios_urbanos_en_Bolivia) (Peredo, 2021) presentado en el 1er Cogreso Boliviano de Urbanismo.
+
+Asimismo, te invito a visitar la base de datos en el sitio del [Explorador Bibliográfico Urbano](https://labtecnosocial.org/app-biburbana/) que desarrollamos en el [Lab TecnoSocial](https://labtecnosocial.org/) (Github: [@lab-tecnosocial](https://github.com/lab-tecnosocial))
